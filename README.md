@@ -12,3 +12,7 @@ Run `python main.py` to start.
 - Modular pipeline design
 - Easy configuration
 - Reproducible results
+
+
+## Changelog
+- Added utility functions
